@@ -4,7 +4,7 @@ Alamofire API calling by RxSwift in SwiftUI
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/Jigneshmayani90/SwiftUIAPICalling/blob/main/LICENSE)
 [![iOS](https://img.shields.io/badge/Platform-iOS-purpel.svg?style=flat)](https://developer.apple.com/ios/)
 
-[![SwiftUI](https://img.shields.io/badge/Swift-5-orange.svg?style=flat)](https://developer.apple.com/swiftui/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-orange.svg?style=flat)](https://developer.apple.com/swiftui/)
 
 ## Example
 <img src="https://github.com/Jigneshmayani90/SwiftUIAPICalling/blob/main/sample.gif" width="400">
